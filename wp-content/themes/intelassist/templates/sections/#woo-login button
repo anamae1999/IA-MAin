@@ -1,0 +1,18 @@
+<?php get_template_part( 'templates/partials/section-settings' ); ?> 
+  <div>
+
+  	  <div class="container d-flex ffg-container">
+  	  	<div class="col-6 ffg-one">
+  	  		<p>Force for Good</p>
+  	  		<h2>Precious Heritage <br>Children’s Home</h2>
+  	  		<button class="ffg-btn">Learn more</button>
+  	  	</div>
+  	  	<div class="col-6 ffg-two">
+  	  		<p>
+  	  			Precious Heritage Children’s Home is a DSWD ACCREDITED Social Welfare and Development Agency (SWDA) registered at Securities and Exchange Commission (SEC) and Department of Social Welfare and Development (DSWD). A grassroots ministry providing housing, food, clothing, medical care, education and love to the orphaned, abandoned, malnourished, and neglected children in the Philippines.
+  	  		</p>
+  	  	</div>
+  	  </div>
+  	
+  </div>
+</section>
